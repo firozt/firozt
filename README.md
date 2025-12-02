@@ -1,16 +1,18 @@
-## Hi there 👋
+## Kumusta 👋
 
-<!--
-**firozt/firozt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Ramiz Abdulla**, and I'm a software developer based in **London, UK**.  
 
-Here are some ideas to get you started:
+I'm currently working on a **Web Crawler and Indexer** using **Go**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building **full-stack web applications**, typically using:  
+- **Frontend:** React (TypeScript)  
+- **Backend:** Python , Java , Go (Learning)
+- **Database:** PostgreSQL  
+
+I love turning ideas into real applications and learning new technologies along the way.
+
+---
+### 📫 Get in Touch
+
+You can reach me through any of the contact options listed on my [website](https://ramizabdulla.me/#contact).  
+I'd love to connect!
