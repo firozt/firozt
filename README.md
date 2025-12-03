@@ -9,10 +9,10 @@ I enjoy building **full-stack web applications**, typically using:
 - **Backend:** Python , Java , Go (Learning)
 - **Database:** PostgreSQL  
 
-I love turning ideas into real applications and learning new technologies along the way.
+
 
 ---
-### 📫 Get in Touch
+### Get in Touch
 
 You can reach me through any of the contact options listed on my [website](https://ramizabdulla.me/#contact).  
-I'd love to connect!
+Let's connect!
