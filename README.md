@@ -2,7 +2,8 @@
 
 My name is **Ramiz Abdulla**, and I'm a software developer based in **London, UK**.  
 
-I'm currently working on a **Web Crawler and Indexer** using **Go**.  
+I'm currently working on a **Torrent Client** using **Go**.  
+Check out the repo here[https://github.com/firozt/go-torrent-client]
 
 I enjoy building **full-stack web applications**, typically using:  
 - **Frontend:** React (TypeScript)  
