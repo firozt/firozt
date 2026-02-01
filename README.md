@@ -15,5 +15,4 @@ I enjoy building **full-stack web applications**, typically using:
 ---
 ### Get in Touch
 
-You can reach me through any of the contact options listed on my [website](https://ramizabdulla.me/#contact).  
-Let's connect!
+You can reach me through any of the contact options listed on my [website](https://ramizabdulla.me/).  
