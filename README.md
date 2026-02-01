@@ -7,7 +7,7 @@ Check out the repo [here](https://github.com/firozt/go-torrent-client)
 
 I enjoy building **full-stack web applications**, typically using:  
 - **Frontend:** React (TypeScript)  
-- **Backend:** Python , Java , Go (Learning)
+- **Backend:** Go, Python, Java
 - **Database:** PostgreSQL  
 
 
